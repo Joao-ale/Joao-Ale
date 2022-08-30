@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is João
 #### I am Developer student in love with tecnologies and play soccer in my free time
-![I am Developer student in love with tecnologies and play soccer in my free time](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Developer student in love with tecnologies and play soccer in my free time](https://images.unsplash.com/photo-1617042375876-a13e36732a04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60)
 
 Currently i'm looking for my first job as Back-end developer.
 
