@@ -10,7 +10,7 @@
 
 Currently i'm looking for my first job as Back-end developer.
 
-Skills: PYTHON / JAVA / C
+Skills: PYTHON / JAVA / C / C#
 
 - 🌱 I’m currently learning HTML / CSS / JS 
 
