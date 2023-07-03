@@ -10,9 +10,9 @@
 
 Currently i'm looking for my first job as Back-end developer.
 
-Skills: PYTHON / JAVA / C / C#
+Skills: PYTHON / JAVA / C / C# / KOTLIN / POSTGRESQL / MYSQL / SPRING BOOT
 
-- 🌱 I’m currently learning HTML / CSS / JS 
+- 🌱 I’m currently learning AWS / TERRAFORM / DOCKER / KAFKA
 
 
 
