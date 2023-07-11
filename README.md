@@ -10,7 +10,7 @@
 
 Currently i'm looking for my first job as Back-end developer.
 
-Skills: PYTHON / JAVA / C / C# / KOTLIN / POSTGRESQL / MYSQL / SPRING BOOT
+Skills: PYTHON / JAVA / C / C# / KOTLIN / POSTGRESQL / MYSQL / SPRING
 
 - 🌱 I’m currently learning AWS / TERRAFORM / DOCKER / KAFKA
 
